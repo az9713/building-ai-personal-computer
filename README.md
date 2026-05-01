@@ -38,9 +38,6 @@ Covers:
 - Small team use case missing
 - On-device/mobile AI layer not addressed
 
-### [`prompt_kit_explained.md`](./prompt_kit_explained.md)
-Explains the two-prompt "Personal AI Computer Prompt Kit" Nate published alongside the video — what each prompt does, why it exists, and how to use them end-to-end (routing map first, stack planner second).
-
 ---
 
 ## The Core Idea in One Paragraph
@@ -62,7 +59,6 @@ The personal AI computer is not a purity test against cloud AI. It is a routing 
 | Complete build recipes | [Three Complete Builds](./ai_pc_choices_report.md#three-complete-builds) |
 | Buying decision rules | [Bottom Line Guidelines](./ai_pc_choices_report.md#bottom-line-guidelines-for-choosing-an-ai-pc) |
 | What Nate missed | [Gaps in Nate's Analysis](./ai_pc_choices_report.md#gaps-in-nates-analysis) |
-| How to use the prompt kit | [prompt_kit_explained.md](./prompt_kit_explained.md) |
 
 ---
 
